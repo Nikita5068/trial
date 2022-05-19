@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\New folder"
+		},
+		{
+			"path": "..\\WeatherApp-SOAFabLab-master\\WeatherApp-SOAFabLab-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WeatherApp-SOAFabLab-master"
+	}
+}
